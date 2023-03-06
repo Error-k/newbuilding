@@ -1,5 +1,5 @@
-# newbuilding
-One page for multipage site (landing) <br>
+# newbuilding (Landing page)
+One page for multipage site  <br>
 Better run via localhost (for example OpenServer)
 
 
